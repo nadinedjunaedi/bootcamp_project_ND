@@ -4,7 +4,7 @@ This code works to: produce a 'blurred' version of a 500 x 500 pixel PNG image, 
 Requirements: numpy matplotlib scipy pillow opencv-python
 
 # To create an anaconda environment:
-conda create -n bootcamp_project_ND
+conda create -n bootcamp_project_ND python=3.10
 
 conda activate bootcamp_project_ND
 
